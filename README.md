@@ -1,8 +1,8 @@
-# 🖐️ Gesture-Based LED & Servo Control
+# 🖐️ Gesture-Based LED Control
 
 ## 📌 Project Description
 
-This project uses hand gestures to control either the **brightness of an LED** or the **angle of a servo motor** connected to an Arduino.
+This project uses hand gestures to control the **brightness of an LED** connected to an Arduino.
 
 It reads the **distance between your pinky and thumb**, but only activates when specific fingers are raised on your other hand — ensuring intentional control and avoiding accidental triggers.
 
@@ -13,7 +13,6 @@ It reads the **distance between your pinky and thumb**, but only activates when 
 | Raised Fingers (Other Hand) | Function Activated | Output Controlled |
 |-----------------------------|--------------------|-------------------|
 | ☝️ Index only               | LED brightness     | Analog PWM        |
-| ✌️ Index + Middle           | Servo control      | Angle (0°–180°)   |
 
 ---
 
@@ -46,7 +45,6 @@ Use Python 3.10, and install the following libraries:
 1.Paste the project code into your Python IDE (e.g. PyCharm)
 2.Press Run
 3.Raise your index finger to activate LED brightness control
-4.Raise both index and middle fingers to switch to servo control
 5.Move your pinky and thumb to adjust brightness or angle
 
 ## ✅ You're Good to Go!
