@@ -36,19 +36,19 @@ It reads the **distance between your pinky and thumb**, but only activates when 
 3. File → Examples → PyFirmata → StandardFirmata
 4. Upload the sketch to your Arduino board
 
-##🐍 Python Environment Setup
+## 🐍 Python Environment Setup
 Use Python 3.10, and install the following libraries:
   pip install opencv-python mediapipe numpy math pyfirmata2
   
 ⚠️ Make sure your webcam/phone is working and your Arduino is connected via USB.
 
-##🚀 How to Run
+## 🚀 How to Run
 1.Paste the project code into your Python IDE (e.g. PyCharm)
 2.Press Run
 3.Raise your index finger to activate LED brightness control
 4.Raise both index and middle fingers to switch to servo control
 5.Move your pinky and thumb to adjust brightness or angle
 
-##✅ You're Good to Go!
+## ✅ You're Good to Go!
 Once everything is set up, the system will respond to your gestures in real time.
 Simple, intuitive, and fun to use!
