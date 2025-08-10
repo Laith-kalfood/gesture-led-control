@@ -46,15 +46,30 @@ Use Python 3.10, and install the following libraries:
 1.Paste the project code into your Python IDE (e.g. PyCharm)
 2.Press Run
 3.Raise your index finger to activate LED brightness control
-5.Move your pinky and thumb to adjust brightness or angle
+4.Move your pinky and thumb to adjust brightness or angle
 
 ## ✅ You're Good to Go!
 Once everything is set up, the system will respond to your gestures in real time.
 Simple, intuitive, and fun to use!
 
+---
 
 ## 📄 License
 
-This project is licensed under the **GNU GPL v3**.  
-See the [LICENSE](./LICENSE) file for full details.
-Developed by :Laith-kalfood
+developed by Laith-kalfood
+
+
+This project is licensed under the **GNU General Public License v3.0**:
+> ⚠️ This project is intended for educational and non-commercial use only.  
+> For commercial licensing, please contact the author.
+> 
+> This program is free software: you can redistribute it and/or modify  
+> it under the terms of the GNU General Public License as published by  
+> the Free Software Foundation, either version 3 of the License.  
+>  
+> This program is distributed in the hope that it will be useful,  
+> but WITHOUT ANY WARRANTY; without even the implied warranty of  
+> MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Any commercial use requires **explicit permission** from the author.
+
