@@ -43,32 +43,13 @@ Use Python 3.10, and install the following libraries:
 ⚠️ Make sure your webcam/phone is working and your Arduino is connected via USB.
 
 ## 🚀 How to Run
-1.Connect the Arduino like this:
+1.Paste the project code into your Python IDE (e.g. PyCharm)
 
+2.Press Run
 
+3.Raise your index finger to activate LED brightness control
 
-
-
-
-
-
-
-
-
-<img width="648" height="494" alt="image" src="https://github.com/user-attachments/assets/cef56889-bcba-486c-be16-e5f8781cd4e5" />
-
-
-
-2.Paste the project code into your Python IDE (e.g. PyCharm)
-
-
-3.Press Run
-
-
-4.Raise your index finger to activate LED brightness control
-
-
-5.Move your pinky and thumb to adjust brightness
+4.Move your pinky and thumb to adjust brightness
 
 ## ✅ You're Good to Go!
 Once everything is set up, the system will respond to your gestures in real time.
