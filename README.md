@@ -68,7 +68,7 @@ Use Python 3.10, and install the following libraries:
 4.Raise your index finger to activate LED brightness control
 
 
-5.Move your pinky and thumb to adjust brightness or angle
+5.Move your pinky and thumb to adjust brightness
 
 ## ✅ You're Good to Go!
 Once everything is set up, the system will respond to your gestures in real time.
