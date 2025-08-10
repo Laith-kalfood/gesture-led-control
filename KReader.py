@@ -1,4 +1,5 @@
 # Libraries setup:
+# Sme of the libraries are supported only in 3.10 python
 import mediapipe as mp
 import cv2
 import pyfirmata2 as pf2
@@ -88,4 +89,5 @@ while True:
     else:
         print("Camera filed to open.")
 board.exit()
+
 cv2.destroyAllWindows()
