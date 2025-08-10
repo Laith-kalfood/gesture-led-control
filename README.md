@@ -51,3 +51,10 @@ Use Python 3.10, and install the following libraries:
 ## ✅ You're Good to Go!
 Once everything is set up, the system will respond to your gestures in real time.
 Simple, intuitive, and fun to use!
+
+
+## 📄 License
+
+This project is licensed under the **GNU GPL v3**.  
+See the [LICENSE](./LICENSE) file for full details.
+Developed by :Laith-kalfood
