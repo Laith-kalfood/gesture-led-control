@@ -37,6 +37,7 @@ It reads the **distance between your pinky and thumb**, but only activates when 
 
 ## 🐍 Python Environment Setup
 Use Python 3.10, and install the following libraries:
+
   pip install opencv-python mediapipe numpy math pyfirmata2
   
 ⚠️ Make sure your webcam/phone is working and your Arduino is connected via USB.
